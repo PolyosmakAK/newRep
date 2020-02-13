@@ -1,6 +1,6 @@
 public class Program {
     public static void fire(){
-        System.out.println("FIIIREEE!");
+        System.out.println("FIIIREeEE!");
     }
     public static void main(String[] args) {
         Lamp lamp = new Lamp();
